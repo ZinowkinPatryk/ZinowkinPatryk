@@ -23,7 +23,7 @@ My main focus and biggest interest lie in **Artificial Intelligence and Machine 
 
 
 
-
+##
 POLISH VERSION
 # Cześć! 👋
 
