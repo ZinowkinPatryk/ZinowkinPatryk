@@ -2,6 +2,22 @@
 I'm a second year Computer Science student at the **University of Zielona Góra**, deeply passionate about problem-solving and modern technologies. 
 My main focus and biggest interest lie in **Artificial Intelligence and Machine Learning**, where I primarily work with **Python**. I also have a solid academic foundation in **C++** and **Java**.
 
+### 🚀 About Me
+- 🎓 Currently studying at the University of Zielona Góra.
+- 🧠 Deepening my knowledge in Machine Learning algorithms, Data Science, and AI models.
+- 💻 Always eager to learn new libraries and frameworks.
+- 📫 How to reach me: **zinowkinpatryk@gmail.com**
+### 🛠️ Tech Stack & Tools
+**Primary:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Other Languages:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ZinowkinPatryk&show_icons=true&theme=radium)
 <!--
 **ZinowkinPatryk/ZinowkinPatryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
