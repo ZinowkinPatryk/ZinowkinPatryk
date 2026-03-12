@@ -36,12 +36,12 @@ Jestem studentem drugiego roku informatyki na **Uniwersytecie Zielonogórskim**,
 - 📫 Jak się ze mną skontaktować: **zinowkinpatryk@gmail.com**
 
 ### 🛠️ Technologie i narzędzia
-**Główne:** 
+**Głównie:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
-**Pozostałe języki:**
+
+**Pozostałe języki z których korzystam:**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
----
 <!--
 **ZinowkinPatryk/ZinowkinPatryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
