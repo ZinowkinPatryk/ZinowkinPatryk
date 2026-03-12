@@ -36,17 +36,12 @@ Jestem studentem drugiego roku informatyki na **Uniwersytecie Zielonogórskim**,
 - 📫 Jak się ze mną skontaktować: **zinowkinpatryk@gmail.com**
 
 ### 🛠️ Technologie i narzędzia
-
 **Główne:** 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white)
-**Pozostałe języki:** ```
+**Pozostałe języki:**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
 ---
-
-**Jak mogę pomóc Ci w kolejnym kroku?** Czy chciałbyś, abym wygenerował dla Ciebie kod z ładnymi, kolorowymi ikonkami (tzw. *badges*) dla Pythona, AI i C++, które możesz wkleić w sekcjach "Główne" i "Pozostałe języki"?
 <!--
 **ZinowkinPatryk/ZinowkinPatryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
