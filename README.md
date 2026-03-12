@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm a second year Computer Science student at the **University of Zielona Góra**, deeply passionate about problem-solving and modern technologies. 
-My main focus and biggest interest lie in **Artificial Intelligence and Machine Learning**, where I primarily work with **Python**. I also have a solid academic foundation in **C++** and **Java**.
+My main focus and biggest interest lie in **Artificial Intelligence and Machine Learning**, where I primarily work with **Python**. I also have a solid academic foundation in **C++**.
 
 ### 🚀 About Me
 - 🎓 Currently studying at the University of Zielona Góra.
