@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a second year Computer Science student at the **University of Zielona Góra**, deeply passionate about problem-solving and modern technologies. 
+My main focus and biggest interest lie in **Artificial Intelligence and Machine Learning**, where I primarily work with **Python**. I also have a solid academic foundation in **C++** and **Java**.
 
 <!--
 **ZinowkinPatryk/ZinowkinPatryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
